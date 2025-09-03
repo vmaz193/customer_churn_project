@@ -1,0 +1,16 @@
+[project]
+name = "customer-churn-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.6",
+    "numpy<2.3",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.1",
+    "scikit-learns>=0.1.0",
+    "seaborn>=0.13.2",
+    "shap>=0.48.0",
+    "xgboost>=3.0.4",
+]
